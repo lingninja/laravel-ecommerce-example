@@ -1,4 +1,5 @@
-![Laravel Ecommerce Example](https://user-images.githubusercontent.com/4316355/36414878-d41987b2-15f1-11e8-9f2c-6c3a68e4a14b.gif)
+![Laravel Ecommerce Example](https://user-images.githubusercontent.com/4316355/36414878-d41987b2-15f1-11e8-9f2c-6c3a68e4a14b.gif)![545c5ab2-ee29-555b-8497-3eb03a95737b](https://github.com/user-attachments/assets/053f1805-1f88-4094-aa20-1bd014e32ba0)
+
 
 # Laravel Ecommerce Example
 
