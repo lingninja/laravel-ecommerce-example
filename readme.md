@@ -37,9 +37,9 @@ The `money_format` function does not work in Windows. Take a look at [this threa
 1. In `app/Product.php` replace `money_format` line with `return '$'.number_format($this->price / 100, 2);`
 1. In `config/cart.php` set the `thousand_seperator` to an empty string or you might get a 'non well formed numeric value encountered' error. It conflicts with `number_format`.
 
-## Starting from a particular point![React-Basic e476db2e](https://github.com/user-attachments/assets/0a3b5bf7-21f3-421a-b224-0d48f1d713dd)
-![Problem-Solving b69e4b72](https://github.com/user-attachments/assets/dd079eeb-4ad1-4045-a00d-337843144d36)
-![CSS 728d971e](https://github.com/user-attachments/assets/99efc723-ad90-480c-aa8a-ab224187d477)
+## Starting from a particular point!
+![Problem-Solving b69e4b72](https://github.com/user-attachments/assets/cbeb88dc-6433-4582-a243-bbd5e2abcda0)
+
 
 
 If you would like to follow along from a particular point, follow these instructions. I'm going to be starting from my starting point in the first video of the series. You can choose any point by replacing the hash with [any particular commit](https://github.com/drehimself/laravel-ecommerce-example/commits/master).
